@@ -1,48 +1,766 @@
-#EXTINF:-1 tvg-id="mcm.fr" tvg-name="FR - MCM HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/FRANCE/MCM1.png" group-title="EU | FRANCE ENTERTAINMENT",FR - MCM HEVC
-http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/57041
-#EXTINF:-1 tvg-id="mcmtop.fr" tvg-name="FR - MCM TOP HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/FRANCE/MCMTOP.png" group-title="EU | FRANCE ENTERTAINMENT",FR - MCM TOP HEVC
-http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/57040
-#EXTINF:-1 tvg-id="melody.fr" tvg-name="FR - MELODY HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/FRANCE/MELODY.png" group-title="EU | FRANCE ENTERTAINMENT",FR - MELODY HEVC
-http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/57045
-#EXTINF:-1 tvg-id="nrjhits.fr" tvg-name="FR - NRJ HITS HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/FRANCE/NRJHITS.png" group-title="EU | FRANCE ENTERTAINMENT",FR - NRJ HITS HEVC
-http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/57043
-#EXTINF:-1 tvg-id="rfmtv.fr" tvg-name="FR - RFM TV HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/FRANCE/RFMTV.png" group-title="EU | FRANCE ENTERTAINMENT",FR - RFM TV HEVC
-http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/62654
-#EXTINF:-1 tvg-id="mtv.fr" tvg-name="FR - MTV HEVC" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MTV.png" group-title="EU | FRANCE ENTERTAINMENT",FR - MTV HEVC
-http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/57044
-#EXTINF:-1 tvg-id="MTV.fr" tvg-name="FR - MTV LIVE HEVC" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/MTV.png" group-title="EU | FRANCE ENTERTAINMENT",FR - MTV LIVE HEVC
-http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/60102
-#EXTINF:-1 tvg-id="nrj12.fr" tvg-name="FR - NRJ 12 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/FRANCE/NRJHITS.png" group-title="EU | FRANCE ENTERTAINMENT",FR - NRJ 12 HEVC
-http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/60111
-#EXTINF:-1 tvg-id="CStar.fr" tvg-name="FR - C STAR HIT HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/FRANCE/CSTARHITSFRENANCE-1.png" group-title="EU | FRANCE ENTERTAINMENT",FR - C STAR HIT HEVC
-http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/57039
-#EXTINF:-1 tvg-id="CStar.fr" tvg-name="FR - C STAR HITS FRENANCE HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/FRANCE/CSTARHITSFRENANCE-1.png" group-title="EU | FRANCE ENTERTAINMENT",FR - C STAR HITS FRENANCE HEVC
-http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/57047
-#EXTINF:-1 tvg-id="" tvg-name="FR - DJAZZ HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/FRANCE/DJAZZ-1.png" group-title="EU | FRANCE ENTERTAINMENT",FR - DJAZZ HEVC
-http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/57046
-#EXTINF:-1 tvg-id="histoire.fr" tvg-name="FR - HISTOIRE HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/FRANCE/HISTOIREHD.png" group-title="EU | FRANCE ENTERTAINMENT",FR - HISTOIRE HEVC
-http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/62675
-#EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="FR - USHUAIA HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/FRANCE/USHUAIATV.png" group-title="EU | FRANCE ENTERTAINMENT",FR - USHUAIA HEVC
-http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/56924
-#EXTINF:-1 tvg-id="Viceland.fr" tvg-name="FR - VICELAND HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/FRANCE/VICELAND.png" group-title="EU | FRANCE ENTERTAINMENT",FR - VICELAND HEVC
-http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/56923
-#EXTINF:-1 tvg-id="animaux.fr" tvg-name="FR - ANIMAUX HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/FRANCE/ANIMAUX.png" group-title="EU | FRANCE ENTERTAINMENT",FR - ANIMAUX HEVC
-http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/57066
-#EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="FR - CHASSE&PECHE HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/FRANCE/CHASSEANDPECHE.png" group-title="EU | FRANCE ENTERTAINMENT",FR - CHASSE&PECHE HEVC
-http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/57061
-#EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="FR - DISCOVERY ID HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/FRANCE/DISCOVERYCHANNELHD.png" group-title="EU | FRANCE ENTERTAINMENT",FR - DISCOVERY ID HEVC
-http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/62681
-#EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="FR - DISCOVERY CHANNEL HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/FRANCE/DISCOVERYCHANNELHD.png" group-title="EU | FRANCE ENTERTAINMENT",FR - DISCOVERY CHANNEL HEVC
-http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/57056
-#EXTINF:-1 tvg-id="DiscoveryFamily.fr" tvg-name="FR - DISCOVERY FAMILY HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/FRANCE/DISCOVERYCHANNELHD.png" group-title="EU | FRANCE ENTERTAINMENT",FR - DISCOVERY FAMILY HEVC
-http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/57060
-#EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="FR - DISCOVERY INVESTIGATION HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/FRANCE/DISCOVERYCHANNELHD.png" group-title="EU | FRANCE ENTERTAINMENT",FR - DISCOVERY INVESTIGATION HEVC
-http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/57059
-#EXTINF:-1 tvg-id="discoveryscience.fr" tvg-name="FR - DISCOVERY SCIENCE HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/FRANCE/DISCOVERYCHANNELHD.png" group-title="EU | FRANCE ENTERTAINMENT",FR - DISCOVERY SCIENCE HEVC
-http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/57055
-#EXTINF:-1 tvg-id="crimedistrict.fr" tvg-name="FR - CRIME DISTRICT HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/FRANCE/CRIMEDISTRICTHD-1.png" group-title="EU | FRANCE ENTERTAINMENT",FR - CRIME DISTRICT HEVC
-http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/62678
-#EXTINF:-1 tvg-id="EEntertainment.fr" tvg-name="FR - E! ENTERTAINMENT HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/FRANCE/E!-1.png" group-title="EU | FRANCE ENTERTAINMENT",FR - E! ENTERTAINMENT HEVC
-http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/57067
-#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="FR - NAT GEO WILD HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/FRANCE/NATGEOWILDHD.png" group-title="EU | FRANCE ENTERTAINMENT",FR - NAT GEO WILD HEVC
-http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/57058
+#EXTINF:-1 tvg-id="" tvg-name="##### SOMALIA - FLIX MOVIES  #####" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",##### SOMALIA - FLIX MOVIES  #####
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110327
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - FLIX MOVIE" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - FLIX MOVIE
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110328
+#EXTINF:-1 tvg-id="" tvg-name="##### AF - SOMALIA #####" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",##### AF - SOMALIA #####
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110329
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - CORONA VIRUS INFO" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - CORONA VIRUS INFO
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110330
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - RAMADAAN" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - RAMADAAN
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110331
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - UNIVERSAL TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - UNIVERSAL TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110332
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - RTD DJIBOUTI" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - RTD DJIBOUTI
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110333
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - PUNTLAND" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - PUNTLAND
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110334
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - KALSAN TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - KALSAN TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110335
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - BULLSHO" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - BULLSHO
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110336
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - SAAB TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - SAAB TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110337
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - DAYAX" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - DAYAX
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110338
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - DAYAX TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - DAYAX TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110339
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - SBC" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - SBC
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110340
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - SNTV" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - SNTV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110341
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - ESTV" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - ESTV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110342
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - RTN" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - RTN
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110343
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - CNA TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - CNA TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110344
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - NATIONAL" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - NATIONAL
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110345
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - HORN CABLE" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - HORN CABLE
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110346
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - SOMALI CABLE" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - SOMALI CABLE
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110347
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - SOMALI LAND" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - SOMALI LAND
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110348
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - SOMNEWS" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - SOMNEWS
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110349
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - JACEYLKA MA FAHMO" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - JACEYLKA MA FAHMO
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110350
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - MASRAXA FURAN" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - MASRAXA FURAN
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110351
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - FANPROJ" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - FANPROJ
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110352
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - HINDI AFLAM" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - HINDI AFLAM
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110353
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - JUBBA LAND" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - JUBBA LAND
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110354
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - DALSAN TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - DALSAN TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110355
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - DALKA TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - DALKA TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110356
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - GM TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - GM TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110357
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - ROYAL TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - ROYAL TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110358
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - MEDINA MASJID HD" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - MEDINA MASJID HD
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110360
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - MEDINA QURAN HD" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - MEDINA QURAN HD
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110361
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - QURAN TAFSIIR" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - QURAN TAFSIIR
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110362
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - MUXAADARO 2" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - MUXAADARO 2
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110363
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - TELEFESHINKA CAALMIGA /UNIVERSAL" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - TELEFESHINKA CAALMIGA /UNIVERSAL
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110364
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - HORYAAL24 TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - HORYAAL24 TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110365
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - MUXAADARO" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - MUXAADARO
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110366
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - AMIN ARTS" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - AMIN ARTS
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110367
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - SOMALI ARCHIVE" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - SOMALI ARCHIVE
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110368
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - KGS TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - KGS TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110369
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - GALMUDUG TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - GALMUDUG TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110370
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - DACWA TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - DACWA TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110371
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - MAAWEELADA CARUURTA" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - MAAWEELADA CARUURTA
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110372
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - KGS TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - KGS TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110373
+#EXTINF:-1 tvg-id="" tvg-name="SOMALIA - WAREYSI KULUL" tvg-logo="http://logo.panel.cx/logo/AFRICA/Somalia/Somalia.png" group-title="AF | AFRICA",SOMALIA - WAREYSI KULUL
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110374
+#EXTINF:-1 tvg-id="" tvg-name="##### AF - NIGERIA #####" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",##### AF - NIGERIA #####
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109770
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - VOX AFRICA" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - VOX AFRICA
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109771
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - ROK TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - ROK TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109773
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - AIT" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - AIT
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109772
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - BET BLACK" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - BET BLACK
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109774
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - ABN" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - ABN
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109775
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - VOX" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - VOX
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109776
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - TVC" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - TVC
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109777
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - TVC NEWS" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - TVC NEWS
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109778
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - LOVE WORLD" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - LOVE WORLD
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109779
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - EMMANUEL TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - EMMANUEL TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109780
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - NOLLYWOOD FRENCH" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - NOLLYWOOD FRENCH
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109781
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - NOLLYWOOD MOVIE" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - NOLLYWOOD MOVIE
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109782
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - CHANNELS TELEVISION" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - CHANNELS TELEVISION
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109783
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - CHANNELS 24" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - CHANNELS 24
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109784
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - A+ HD" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - A+ HD
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109785
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - TELE SAHEL" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - TELE SAHEL
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109787
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - HI-IMPACTS" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - HI-IMPACTS
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109788
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - LAGOS TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - LAGOS TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109789
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - FUSION PLUS TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - FUSION PLUS TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109790
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - BRIDE TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - BRIDE TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109791
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - COMEDY CHANNEL" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - COMEDY CHANNEL
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109792
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - EMCI TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - EMCI TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109793
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - ET" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - ET
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109794
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - FUFU KITCHEN" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - FUFU KITCHEN
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109795
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - HOPE CHANNEL AFRICA" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - HOPE CHANNEL AFRICA
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109796
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - LIGHT TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - LIGHT TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109797
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - KINGS WORD INFO TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - KINGS WORD INFO TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109798
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - NEW BEGINNING TV NETWORK" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - NEW BEGINNING TV NETWORK
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109799
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - ONCE SPOKEN NETWORK" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - ONCE SPOKEN NETWORK
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109800
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - AFRICAN ENTERTAIMENT TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - AFRICAN ENTERTAIMENT TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109801
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - SPYDAR TV NETWORK" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - SPYDAR TV NETWORK
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109802
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - NU SMILES TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - NU SMILES TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109803
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - LIFETV" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - LIFETV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109804
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - BIAFRA TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - BIAFRA TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109805
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - EKO4SHOW" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - EKO4SHOW
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109806
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - MORE GRACE TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - MORE GRACE TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109807
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - LIBERATIONTV" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - LIBERATIONTV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109808
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - TV CONTINENTAL" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - TV CONTINENTAL
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109809
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - LOVE WORLD SAT TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - LOVE WORLD SAT TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109810
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - TV360" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - TV360
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109811
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - DUNAMIS TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - DUNAMIS TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109812
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - NTA HAUSSA" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - NTA HAUSSA
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109813
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - NTA NEWS" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - NTA NEWS
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109814
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - NTA LIVE TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - NTA LIVE TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109815
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - NTA INTERNATIONAL" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - NTA INTERNATIONAL
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109816
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - SALVATION TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - SALVATION TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109817
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - EBRU AFRICA" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - EBRU AFRICA
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109818
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - VH TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - VH TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109819
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - WESTERN 4U TV NETWORK" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - WESTERN 4U TV NETWORK
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109820
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - EBONY LIFE TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - EBONY LIFE TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109821
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - AREWA 24" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - AREWA 24
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109822
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - WAPTV" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - WAPTV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109823
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - LUMEN CHRISTI" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - LUMEN CHRISTI
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109824
+#EXTINF:-1 tvg-id="" tvg-name="NIGERIA - TVC NEWS NIGERIA" tvg-logo="http://logo.panel.cx/logo/AFRICA/NEGIRIA/nigeria.png" group-title="AF | AFRICA",NIGERIA - TVC NEWS NIGERIA
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109825
+#EXTINF:-1 tvg-id="" tvg-name="##### AF - GHANA #####" tvg-logo="http://logo.panel.cx/logo/AFRICA/GHANA/ghana.png" group-title="AF | AFRICA",##### AF - GHANA #####
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109826
+#EXTINF:-1 tvg-id="" tvg-name="GHANA - KESSBEN TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/GHANA/ghana.png" group-title="AF | AFRICA",GHANA - KESSBEN TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109827
+#EXTINF:-1 tvg-id="" tvg-name="GHANA - BEN" tvg-logo="http://logo.panel.cx/logo/AFRICA/GHANA/ghana.png" group-title="AF | AFRICA",GHANA - BEN
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109828
+#EXTINF:-1 tvg-id="" tvg-name="GHANA - GTV" tvg-logo="http://logo.panel.cx/logo/AFRICA/GHANA/ghana.png" group-title="AF | AFRICA",GHANA - GTV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109829
+#EXTINF:-1 tvg-id="" tvg-name="GHANA - RTV" tvg-logo="http://logo.panel.cx/logo/AFRICA/GHANA/ghana.png" group-title="AF | AFRICA",GHANA - RTV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109830
+#EXTINF:-1 tvg-id="" tvg-name="GHANA - JOY NEWS" tvg-logo="http://logo.panel.cx/logo/AFRICA/GHANA/ghana.png" group-title="AF | AFRICA",GHANA - JOY NEWS
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109831
+#EXTINF:-1 tvg-id="" tvg-name="GHANA - JOY PRIME" tvg-logo="http://logo.panel.cx/logo/AFRICA/GHANA/ghana.png" group-title="AF | AFRICA",GHANA - JOY PRIME
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109832
+#EXTINF:-1 tvg-id="" tvg-name="GHANA - UTV" tvg-logo="http://logo.panel.cx/logo/AFRICA/GHANA/ghana.png" group-title="AF | AFRICA",GHANA - UTV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109833
+#EXTINF:-1 tvg-id="" tvg-name="GHANA - METRO TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/GHANA/ghana.png" group-title="AF | AFRICA",GHANA - METRO TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109834
+#EXTINF:-1 tvg-id="" tvg-name="GHANA - OSEIKROM TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/GHANA/ghana.png" group-title="AF | AFRICA",GHANA - OSEIKROM TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109835
+#EXTINF:-1 tvg-id="" tvg-name="GHANA - MINISTERS CHANNEL" tvg-logo="http://logo.panel.cx/logo/AFRICA/GHANA/ghana.png" group-title="AF | AFRICA",GHANA - MINISTERS CHANNEL
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109836
+#EXTINF:-1 tvg-id="" tvg-name="GHANA - KUMAWOOD TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/GHANA/ghana.png" group-title="AF | AFRICA",GHANA - KUMAWOOD TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109837
+#EXTINF:-1 tvg-id="" tvg-name="GHANA - VOLTA1 TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/GHANA/ghana.png" group-title="AF | AFRICA",GHANA - VOLTA1 TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109838
+#EXTINF:-1 tvg-id="" tvg-name="GHANA - MISSION AFRICA TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/GHANA/ghana.png" group-title="AF | AFRICA",GHANA - MISSION AFRICA TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109839
+#EXTINF:-1 tvg-id="" tvg-name="GHANA - HIJRAH TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/GHANA/ghana.png" group-title="AF | AFRICA",GHANA - HIJRAH TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109840
+#EXTINF:-1 tvg-id="" tvg-name="GHANA - GHONE TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/GHANA/ghana.png" group-title="AF | AFRICA",GHANA - GHONE TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109841
+#EXTINF:-1 tvg-id="" tvg-name="GHANA - GTV GOV TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/GHANA/ghana.png" group-title="AF | AFRICA",GHANA - GTV GOV TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109842
+#EXTINF:-1 tvg-id="" tvg-name="GHANA - GTV SPORT" tvg-logo="http://logo.panel.cx/logo/AFRICA/GHANA/ghana.png" group-title="AF | AFRICA",GHANA - GTV SPORT
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109843
+#EXTINF:-1 tvg-id="" tvg-name="GHANA - GBC24" tvg-logo="http://logo.panel.cx/logo/AFRICA/GHANA/ghana.png" group-title="AF | AFRICA",GHANA - GBC24
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109844
+#EXTINF:-1 tvg-id="" tvg-name="GHANA - ATINKA TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/GHANA/ghana.png" group-title="AF | AFRICA",GHANA - ATINKA TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109845
+#EXTINF:-1 tvg-id="" tvg-name="GHANA - ROYAL TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/GHANA/ghana.png" group-title="AF | AFRICA",GHANA - ROYAL TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109846
+#EXTINF:-1 tvg-id="" tvg-name="GHANA - CNBC AFRICA" tvg-logo="http://logo.panel.cx/logo/AFRICA/GHANA/ghana.png" group-title="AF | AFRICA",GHANA - CNBC AFRICA
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109847
+#EXTINF:-1 tvg-id="" tvg-name="GHANA - RESURRECTION TELEVISION" tvg-logo="http://logo.panel.cx/logo/AFRICA/GHANA/ghana.png" group-title="AF | AFRICA",GHANA - RESURRECTION TELEVISION
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109848
+#EXTINF:-1 tvg-id="" tvg-name="GHANA - GHANA BROADCASTING CORPORATION" tvg-logo="http://logo.panel.cx/logo/AFRICA/GHANA/ghana.png" group-title="AF | AFRICA",GHANA - GHANA BROADCASTING CORPORATION
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109849
+#EXTINF:-1 tvg-id="" tvg-name="GHANA - MTA AFRICA" tvg-logo="http://logo.panel.cx/logo/AFRICA/GHANA/ghana.png" group-title="AF | AFRICA",GHANA - MTA AFRICA
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109850
+#EXTINF:-1 tvg-id="" tvg-name="GHANA - STUDIO1 TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/GHANA/ghana.png" group-title="AF | AFRICA",GHANA - STUDIO1 TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109851
+#EXTINF:-1 tvg-id="" tvg-name="GHANA - GI SPORTS TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/GHANA/ghana.png" group-title="AF | AFRICA",GHANA - GI SPORTS TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109852
+#EXTINF:-1 tvg-id="" tvg-name="GHANA - TV3 GHANA" tvg-logo="http://logo.panel.cx/logo/AFRICA/GHANA/ghana.png" group-title="AF | AFRICA",GHANA - TV3 GHANA
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109853
+#EXTINF:-1 tvg-id="" tvg-name="GHANA - 3ABN INTERNATIONAL" tvg-logo="http://logo.panel.cx/logo/AFRICA/GHANA/ghana.png" group-title="AF | AFRICA",GHANA - 3ABN INTERNATIONAL
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109854
+#EXTINF:-1 tvg-id="" tvg-name="GHANA - 3ABN KIDS" tvg-logo="http://logo.panel.cx/logo/AFRICA/GHANA/ghana.png" group-title="AF | AFRICA",GHANA - 3ABN KIDS
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109855
+#EXTINF:-1 tvg-id="" tvg-name="GHANA - 3ABN FRANÇAIS" tvg-logo="http://logo.panel.cx/logo/AFRICA/GHANA/ghana.png" group-title="AF | AFRICA",GHANA - 3ABN FRANÇAIS
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109856
+#EXTINF:-1 tvg-id="" tvg-name="GHANA - | ADOM TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/GHANA/ghana.png" group-title="AF | AFRICA",GHANA - | ADOM TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109857
+#EXTINF:-1 tvg-id="" tvg-name="##### AF - CONGO #####" tvg-logo="http://logo.panel.cx/logo/AFRICA/CONGO/congo.png" group-title="AF | AFRICA",##### AF - CONGO #####
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109858
+#EXTINF:-1 tvg-id="" tvg-name="CONGO - OUEST TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/CONGO/congo.png" group-title="AF | AFRICA",CONGO - OUEST TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109859
+#EXTINF:-1 tvg-id="" tvg-name="CONGO - VOX TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/CONGO/congo.png" group-title="AF | AFRICA",CONGO - VOX TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109860
+#EXTINF:-1 tvg-id="" tvg-name="CONGO - RATELKI" tvg-logo="http://logo.panel.cx/logo/AFRICA/CONGO/congo.png" group-title="AF | AFRICA",CONGO - RATELKI
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109861
+#EXTINF:-1 tvg-id="" tvg-name="CONGO - TELE CONGO" tvg-logo="http://logo.panel.cx/logo/AFRICA/CONGO/congo.png" group-title="AF | AFRICA",CONGO - TELE CONGO
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109862
+#EXTINF:-1 tvg-id="" tvg-name="CONGO - TELE50" tvg-logo="http://logo.panel.cx/logo/AFRICA/CONGO/congo.png" group-title="AF | AFRICA",CONGO - TELE50
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109863
+#EXTINF:-1 tvg-id="" tvg-name="CONGO - B-ONE" tvg-logo="http://logo.panel.cx/logo/AFRICA/CONGO/congo.png" group-title="AF | AFRICA",CONGO - B-ONE
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109864
+#EXTINF:-1 tvg-id="" tvg-name="CONGO - DIGITAL CONGO" tvg-logo="http://logo.panel.cx/logo/AFRICA/CONGO/congo.png" group-title="AF | AFRICA",CONGO - DIGITAL CONGO
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109865
+#EXTINF:-1 tvg-id="" tvg-name="CONGO - MERCY TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/CONGO/congo.png" group-title="AF | AFRICA",CONGO - MERCY TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109866
+#EXTINF:-1 tvg-id="" tvg-name="CONGO - OBOSSO TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/CONGO/congo.png" group-title="AF | AFRICA",CONGO - OBOSSO TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109867
+#EXTINF:-1 tvg-id="" tvg-name="CONGO - DRTV" tvg-logo="http://logo.panel.cx/logo/AFRICA/CONGO/congo.png" group-title="AF | AFRICA",CONGO - DRTV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109868
+#EXTINF:-1 tvg-id="" tvg-name="CONGO - CANAL CVV" tvg-logo="http://logo.panel.cx/logo/AFRICA/CONGO/congo.png" group-title="AF | AFRICA",CONGO - CANAL CVV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109869
+#EXTINF:-1 tvg-id="" tvg-name="CONGO - RTNC 3" tvg-logo="http://logo.panel.cx/logo/AFRICA/CONGO/congo.png" group-title="AF | AFRICA",CONGO - RTNC 3
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109870
+#EXTINF:-1 tvg-id="" tvg-name="CONGO - RTNC 1" tvg-logo="http://logo.panel.cx/logo/AFRICA/CONGO/congo.png" group-title="AF | AFRICA",CONGO - RTNC 1
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109871
+#EXTINF:-1 tvg-id="" tvg-name="##### AF - ERITREA #####" tvg-logo="http://logo.panel.cx/logo/AFRICA/ERITREA/eritrea.png" group-title="AF | AFRICA",##### AF - ERITREA #####
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109872
+#EXTINF:-1 tvg-id="" tvg-name="ERITREA - ERI TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/ERITREA/eritrea.png" group-title="AF | AFRICA",ERITREA - ERI TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109873
+#EXTINF:-1 tvg-id="" tvg-name="ERITREA - MARCIL TV ERITERIA" tvg-logo="http://logo.panel.cx/logo/AFRICA/ERITREA/eritrea.png" group-title="AF | AFRICA",ERITREA - MARCIL TV ERITERIA
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109874
+#EXTINF:-1 tvg-id="" tvg-name="##### AF - SIERRALEONE #####" tvg-logo="http://logo.panel.cx/logo/AFRICA/SIERRALEON/SIERRALEONE.png" group-title="AF | AFRICA",##### AF - SIERRALEONE #####
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109875
+#EXTINF:-1 tvg-id="" tvg-name="SIERRALEONE - AMAZE TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/SIERRALEON/SIERRALEONE.png" group-title="AF | AFRICA",SIERRALEONE - AMAZE TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109876
+#EXTINF:-1 tvg-id="" tvg-name="SIERRALEONE - KTV" tvg-logo="http://logo.panel.cx/logo/AFRICA/SIERRALEON/SIERRALEONE.png" group-title="AF | AFRICA",SIERRALEONE - KTV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109877
+#EXTINF:-1 tvg-id="" tvg-name="SIERRALEONE - AYV TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/SIERRALEON/SIERRALEONE.png" group-title="AF | AFRICA",SIERRALEONE - AYV TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109878
+#EXTINF:-1 tvg-id="" tvg-name="##### AF - UGANDA #####" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",##### AF - UGANDA #####
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109879
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - BUKKEDE TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - BUKKEDE TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109880
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - SALT TELEVISION" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - SALT TELEVISION
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109881
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - NTV" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - NTV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109882
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - NBS" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - NBS
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109883
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - STUDIO UNIVERSAL" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - STUDIO UNIVERSAL
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109884
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - VUZU" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - VUZU
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109885
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - TELEMUNDO" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - TELEMUNDO
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109886
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - BET" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - BET
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109887
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - EVA PLUS" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - EVA PLUS
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109888
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - AFRICA MAGIC SHOWCASE" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - AFRICA MAGIC SHOWCASE
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109889
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - AFRICA MAGIC EPIC" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - AFRICA MAGIC EPIC
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109890
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - AFRICA MAGIC URBAN" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - AFRICA MAGIC URBAN
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109891
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - AFRICA MAGIC FAMILY" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - AFRICA MAGIC FAMILY
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109892
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - AFRICA MAGIC HAUSA" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - AFRICA MAGIC HAUSA
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109893
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - AFRICA MAGIC YORUBA" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - AFRICA MAGIC YORUBA
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109894
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - AFRICA MAGIC IGBO" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - AFRICA MAGIC IGBO
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109895
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - MAISHA MAGIC BONGO" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - MAISHA MAGIC BONGO
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109896
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - MAISHA MAGIC Plus" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - MAISHA MAGIC Plus
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109897
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - ROK" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - ROK
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109898
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - CURIOSITY STREAM" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - CURIOSITY STREAM
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109899
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - TELEVISTA" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - TELEVISTA
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109900
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - TRYBE TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - TRYBE TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109901
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - CLOUDS PLUS" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - CLOUDS PLUS
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109902
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - MINDSET" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - MINDSET
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109903
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - EWTN" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - EWTN
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109904
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - SABC NEWS" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - SABC NEWS
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109905
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - NEWZROOM AFRIKA" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - NEWZROOM AFRIKA
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109906
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - CGTN NEWS" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - CGTN NEWS
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109907
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - AFRICANEWS" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - AFRICANEWS
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109908
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - NHK" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - NHK
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109909
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - TV5 MONDE AFRIQUE" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - TV5 MONDE AFRIQUE
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109910
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - CCTV 4" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - CCTV 4
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109911
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - CITIZEN TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - CITIZEN TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109912
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - STN TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - STN TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109913
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - KBCTV" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - KBCTV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109914
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - NBS" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - NBS
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109915
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - ZANZIBAR TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - ZANZIBAR TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109916
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - BUKEDDE TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - BUKEDDE TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109917
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - UGANDA BROADCASTING CORPORATION" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - UGANDA BROADCASTING CORPORATION
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109918
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - SPARK TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - SPARK TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109919
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - BBS TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - BBS TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109920
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - TV WEST" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - TV WEST
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109921
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - PEARL MAGIC" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - PEARL MAGIC
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109922
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - NTV" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - NTV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109923
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - NTVU" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - NTVU
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109924
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - TBC 1" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - TBC 1
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109925
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - EDU CHANNEL" tvg-logo="http://logo.panel.cx/logo/AFRICA/Uganda/uganda.png" group-title="AF | AFRICA",UGANDA - EDU CHANNEL
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109926
+#EXTINF:-1 tvg-id="" tvg-name="UGANDA - BIG BROTHER NAIJA" tvg-logo="" group-title="AF | AFRICA",UGANDA - BIG BROTHER NAIJA
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/146866
+#EXTINF:-1 tvg-id="" tvg-name="##### AF - MAURITANIA #####" tvg-logo="" group-title="AF | AFRICA",##### AF - MAURITANIA #####
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109927
+#EXTINF:-1 tvg-id="" tvg-name="MAURITANIA - ELMAHDRA" tvg-logo="" group-title="AF | AFRICA",MAURITANIA - ELMAHDRA
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109928
+#EXTINF:-1 tvg-id="" tvg-name="MAURITANIA - ELMAURITANIA 2" tvg-logo="" group-title="AF | AFRICA",MAURITANIA - ELMAURITANIA 2
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109929
+#EXTINF:-1 tvg-id="" tvg-name="MAURITANIA - ELWATANIA" tvg-logo="" group-title="AF | AFRICA",MAURITANIA - ELWATANIA
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109930
+#EXTINF:-1 tvg-id="" tvg-name="MAURITANIA - ELMAURITANIA" tvg-logo="" group-title="AF | AFRICA",MAURITANIA - ELMAURITANIA
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109931
+#EXTINF:-1 tvg-id="" tvg-name="MAURITANIA - ELMORABITOUNE" tvg-logo="" group-title="AF | AFRICA",MAURITANIA - ELMORABITOUNE
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109932
+#EXTINF:-1 tvg-id="" tvg-name="##### AF - TOGO #####" tvg-logo="http://logo.panel.cx/logo/AFRICA/TOGO/TOGO.png" group-title="AF | AFRICA",##### AF - TOGO #####
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109933
+#EXTINF:-1 tvg-id="" tvg-name="TOGO - TVT" tvg-logo="http://logo.panel.cx/logo/AFRICA/TOGO/TOGO.png" group-title="AF | AFRICA",TOGO - TVT
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109934
+#EXTINF:-1 tvg-id="" tvg-name="TOGO - NW INFO" tvg-logo="http://logo.panel.cx/logo/AFRICA/TOGO/TOGO.png" group-title="AF | AFRICA",TOGO - NW INFO
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109935
+#EXTINF:-1 tvg-id="" tvg-name="TOGO - NW MAGAZINE" tvg-logo="http://logo.panel.cx/logo/AFRICA/TOGO/TOGO.png" group-title="AF | AFRICA",TOGO - NW MAGAZINE
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109936
+#EXTINF:-1 tvg-id="" tvg-name="TOGO - AIT" tvg-logo="http://logo.panel.cx/logo/AFRICA/TOGO/TOGO.png" group-title="AF | AFRICA",TOGO - AIT
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109937
+#EXTINF:-1 tvg-id="" tvg-name="##### AF - GAMBIA #####" tvg-logo="http://logo.panel.cx/logo/AFRICA/GAMBIA/GAMBIA.png" group-title="AF | AFRICA",##### AF - GAMBIA #####
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109938
+#EXTINF:-1 tvg-id="" tvg-name="GAMBIA - QTV" tvg-logo="http://logo.panel.cx/logo/AFRICA/GAMBIA/GAMBIA.png" group-title="AF | AFRICA",GAMBIA - QTV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109939
+#EXTINF:-1 tvg-id="" tvg-name="##### AF - TANZANIA #####" tvg-logo="http://logo.panel.cx/logo/AFRICA/TANZANIA/TANZANIA.png" group-title="AF | AFRICA",##### AF - TANZANIA #####
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109940
+#EXTINF:-1 tvg-id="" tvg-name="TANZANIA - RWANDA TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/TANZANIA/TANZANIA.png" group-title="AF | AFRICA",TANZANIA - RWANDA TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109941
+#EXTINF:-1 tvg-id="" tvg-name="TANZANIA - KTN" tvg-logo="http://logo.panel.cx/logo/AFRICA/TANZANIA/TANZANIA.png" group-title="AF | AFRICA",TANZANIA - KTN
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109942
+#EXTINF:-1 tvg-id="" tvg-name="RELIGIOUS - HOPE CHANNEL AFRICA" tvg-logo="" group-title="AF | AFRICA",RELIGIOUS - HOPE CHANNEL AFRICA
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109944
+#EXTINF:-1 tvg-id="" tvg-name="RELIGIOUS - GOD CHANNEL" tvg-logo="" group-title="AF | AFRICA",RELIGIOUS - GOD CHANNEL
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109945
+#EXTINF:-1 tvg-id="" tvg-name="RELIGIOUS - LOVE WORLD PLUS" tvg-logo="" group-title="AF | AFRICA",RELIGIOUS - LOVE WORLD PLUS
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109946
+#EXTINF:-1 tvg-id="" tvg-name="RELIGIOUS - DOVE TV" tvg-logo="" group-title="AF | AFRICA",RELIGIOUS - DOVE TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109947
+#EXTINF:-1 tvg-id="" tvg-name="RELIGIOUS - KINGS WORD TV" tvg-logo="" group-title="AF | AFRICA",RELIGIOUS - KINGS WORD TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109948
+#EXTINF:-1 tvg-id="" tvg-name="##### AF - GUINEE #####" tvg-logo="http://logo.panel.cx/logo/AFRICA/GUINEE/GUINEE.png" group-title="AF | AFRICA",##### AF - GUINEE #####
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109949
+#EXTINF:-1 tvg-id="" tvg-name="GUINEE - TVGE" tvg-logo="http://logo.panel.cx/logo/AFRICA/GUINEE/GUINEE.png" group-title="AF | AFRICA",GUINEE - TVGE
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109950
+#EXTINF:-1 tvg-id="" tvg-name="GUINEE - TVGE QUATORIAL" tvg-logo="http://logo.panel.cx/logo/AFRICA/GUINEE/GUINEE.png" group-title="AF | AFRICA",GUINEE - TVGE QUATORIAL
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109951
+#EXTINF:-1 tvg-id="" tvg-name="GUINEE - WES AFRICA TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/GUINEE/GUINEE.png" group-title="AF | AFRICA",GUINEE - WES AFRICA TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109952
+#EXTINF:-1 tvg-id="" tvg-name="GUINEE - RTG" tvg-logo="http://logo.panel.cx/logo/AFRICA/GUINEE/GUINEE.png" group-title="AF | AFRICA",GUINEE - RTG
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109953
+#EXTINF:-1 tvg-id="" tvg-name="GUINEE - CIS TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/GUINEE/GUINEE.png" group-title="AF | AFRICA",GUINEE - CIS TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109954
+#EXTINF:-1 tvg-id="" tvg-name="GUINEE - ESPACE TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/GUINEE/GUINEE.png" group-title="AF | AFRICA",GUINEE - ESPACE TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109955
+#EXTINF:-1 tvg-id="" tvg-name="GUINEE - BUZZ" tvg-logo="http://logo.panel.cx/logo/AFRICA/GUINEE/GUINEE.png" group-title="AF | AFRICA",GUINEE - BUZZ
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109956
+#EXTINF:-1 tvg-id="" tvg-name="##### AF - GABON #####" tvg-logo="http://logo.panel.cx/logo/AFRICA/GABON/GABON.png" group-title="AF | AFRICA",##### AF - GABON #####
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109957
+#EXTINF:-1 tvg-id="" tvg-name="GABON - GABON ONE" tvg-logo="http://logo.panel.cx/logo/AFRICA/GABON/GABON.png" group-title="AF | AFRICA",GABON - GABON ONE
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109958
+#EXTINF:-1 tvg-id="" tvg-name="##### AF - COTEDIVOIRE #####" tvg-logo="http://logo.panel.cx/logo/AFRICA/COTEDIVOIR/COTEDIVOIR.png" group-title="AF | AFRICA",##### AF - COTEDIVOIRE #####
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109959
+#EXTINF:-1 tvg-id="" tvg-name="COTEDIVOIRE - A+IVOIRE" tvg-logo="http://logo.panel.cx/logo/AFRICA/COTEDIVOIR/COTEDIVOIR.png" group-title="AF | AFRICA",COTEDIVOIRE - A+IVOIRE
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109786
+#EXTINF:-1 tvg-id="" tvg-name="COTEDIVOIRE - RTI1" tvg-logo="http://logo.panel.cx/logo/AFRICA/COTEDIVOIR/COTEDIVOIR.png" group-title="AF | AFRICA",COTEDIVOIRE - RTI1
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109960
+#EXTINF:-1 tvg-id="" tvg-name="COTEDIVOIRE - RTI2" tvg-logo="http://logo.panel.cx/logo/AFRICA/COTEDIVOIR/COTEDIVOIR.png" group-title="AF | AFRICA",COTEDIVOIRE - RTI2
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109961
+#EXTINF:-1 tvg-id="" tvg-name="##### AF - CAMAROON #####" tvg-logo="http://logo.panel.cx/logo/AFRICA/CAMAROON/CAMAROON.png" group-title="AF | AFRICA",##### AF - CAMAROON #####
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109962
+#EXTINF:-1 tvg-id="" tvg-name="CAMAROON - EQUINOXE CAMEROUN" tvg-logo="http://logo.panel.cx/logo/AFRICA/CAMAROON/CAMAROON.png" group-title="AF | AFRICA",CAMAROON - EQUINOXE CAMEROUN
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109963
+#EXTINF:-1 tvg-id="" tvg-name="CAMAROON - CR TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/CAMAROON/CAMAROON.png" group-title="AF | AFRICA",CAMAROON - CR TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109964
+#EXTINF:-1 tvg-id="" tvg-name="CAMAROON - CR TV NEWS" tvg-logo="http://logo.panel.cx/logo/AFRICA/CAMAROON/CAMAROON.png" group-title="AF | AFRICA",CAMAROON - CR TV NEWS
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109965
+#EXTINF:-1 tvg-id="" tvg-name="CAMAROON - CANAL2" tvg-logo="http://logo.panel.cx/logo/AFRICA/CAMAROON/CAMAROON.png" group-title="AF | AFRICA",CAMAROON - CANAL2
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109966
+#EXTINF:-1 tvg-id="" tvg-name="CAMAROON - CANAL2 MOVIES" tvg-logo="http://logo.panel.cx/logo/AFRICA/CAMAROON/CAMAROON.png" group-title="AF | AFRICA",CAMAROON - CANAL2 MOVIES
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109967
+#EXTINF:-1 tvg-id="" tvg-name="CAMAROON - PALMIER TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/CAMAROON/CAMAROON.png" group-title="AF | AFRICA",CAMAROON - PALMIER TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109968
+#EXTINF:-1 tvg-id="" tvg-name="CAMAROON - VISION4  TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/CAMAROON/CAMAROON.png" group-title="AF | AFRICA",CAMAROON - VISION4  TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109969
+#EXTINF:-1 tvg-id="" tvg-name="CAMAROON - AFRIQUE MÉDIA" tvg-logo="http://logo.panel.cx/logo/AFRICA/CAMAROON/CAMAROON.png" group-title="AF | AFRICA",CAMAROON - AFRIQUE MÉDIA
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109970
+#EXTINF:-1 tvg-id="" tvg-name="CAMAROON - BOOM TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/CAMAROON/CAMAROON.png" group-title="AF | AFRICA",CAMAROON - BOOM TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109971
+#EXTINF:-1 tvg-id="" tvg-name="CAMAROON - LTM" tvg-logo="http://logo.panel.cx/logo/AFRICA/CAMAROON/CAMAROON.png" group-title="AF | AFRICA",CAMAROON - LTM
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109972
+#EXTINF:-1 tvg-id="" tvg-name="CAMAROON - STV" tvg-logo="http://logo.panel.cx/logo/AFRICA/CAMAROON/CAMAROON.png" group-title="AF | AFRICA",CAMAROON - STV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109973
+#EXTINF:-1 tvg-id="" tvg-name="CAMAROON - 7ENTERTAINMENT" tvg-logo="http://logo.panel.cx/logo/AFRICA/CAMAROON/CAMAROON.png" group-title="AF | AFRICA",CAMAROON - 7ENTERTAINMENT
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109974
+#EXTINF:-1 tvg-id="" tvg-name="CAMAROON - AFRICA NEWS" tvg-logo="http://logo.panel.cx/logo/AFRICA/CAMAROON/CAMAROON.png" group-title="AF | AFRICA",CAMAROON - AFRICA NEWS
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109975
+#EXTINF:-1 tvg-id="" tvg-name="CAMAROON - SUIVEZSIKKA" tvg-logo="http://logo.panel.cx/logo/AFRICA/CAMAROON/CAMAROON.png" group-title="AF | AFRICA",CAMAROON - SUIVEZSIKKA
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109976
+#EXTINF:-1 tvg-id="" tvg-name="CAMAROON - FRANCE INFO" tvg-logo="http://logo.panel.cx/logo/AFRICA/CAMAROON/CAMAROON.png" group-title="AF | AFRICA",CAMAROON - FRANCE INFO
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109977
+#EXTINF:-1 tvg-id="" tvg-name="CAMAROON - DIVINAMOUR TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/CAMAROON/CAMAROON.png" group-title="AF | AFRICA",CAMAROON - DIVINAMOUR TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109978
+#EXTINF:-1 tvg-id="" tvg-name="##### AF - BURKINAFASO #####" tvg-logo="http://logo.panel.cx/logo/AFRICA/BURKINAFASO/BURKINAFASO.png" group-title="AF | AFRICA",##### AF - BURKINAFASO #####
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109979
+#EXTINF:-1 tvg-id="" tvg-name="BURKINAFASO - RTB" tvg-logo="http://logo.panel.cx/logo/AFRICA/BURKINAFASO/BURKINAFASO.png" group-title="AF | AFRICA",BURKINAFASO - RTB
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109980
+#EXTINF:-1 tvg-id="" tvg-name="BURKINAFASO - IMPACT TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/BURKINAFASO/BURKINAFASO.png" group-title="AF | AFRICA",BURKINAFASO - IMPACT TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109981
+#EXTINF:-1 tvg-id="" tvg-name="##### AF - ANGOLA #####" tvg-logo="http://logo.panel.cx/logo/AFRICA/ANGOLA/ANGOLA.png" group-title="AF | AFRICA",##### AF - ANGOLA #####
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109982
+#EXTINF:-1 tvg-id="" tvg-name="ANGOLA - TV ZIMBO" tvg-logo="http://logo.panel.cx/logo/AFRICA/ANGOLA/ANGOLA.png" group-title="AF | AFRICA",ANGOLA - TV ZIMBO
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109983
+#EXTINF:-1 tvg-id="" tvg-name="ANGOLA - TPA INTERNATIONAL" tvg-logo="http://logo.panel.cx/logo/AFRICA/ANGOLA/ANGOLA.png" group-title="AF | AFRICA",ANGOLA - TPA INTERNATIONAL
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109984
+#EXTINF:-1 tvg-id="" tvg-name="ANGOLA - TPA 1" tvg-logo="http://logo.panel.cx/logo/AFRICA/ANGOLA/ANGOLA.png" group-title="AF | AFRICA",ANGOLA - TPA 1
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109985
+#EXTINF:-1 tvg-id="" tvg-name="##### AF - TCHAD #####" tvg-logo="http://logo.panel.cx/logo/AFRICA/TCHAD/TCHAD.png" group-title="AF | AFRICA",##### AF - TCHAD #####
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109986
+#EXTINF:-1 tvg-id="" tvg-name="TCHAD - TELE TCHAD" tvg-logo="http://logo.panel.cx/logo/AFRICA/TCHAD/TCHAD.png" group-title="AF | AFRICA",TCHAD - TELE TCHAD
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109987
+#EXTINF:-1 tvg-id="" tvg-name="##### AF - KENYA #####" tvg-logo="http://logo.panel.cx/logo/AFRICA/KENYA/KENYA.png" group-title="AF | AFRICA",##### AF - KENYA #####
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109988
+#EXTINF:-1 tvg-id="" tvg-name="KENYA - KTN" tvg-logo="http://logo.panel.cx/logo/AFRICA/KENYA/KENYA.png" group-title="AF | AFRICA",KENYA - KTN
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109989
+#EXTINF:-1 tvg-id="" tvg-name="KENYA - K24" tvg-logo="http://logo.panel.cx/logo/AFRICA/KENYA/KENYA.png" group-title="AF | AFRICA",KENYA - K24
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109990
+#EXTINF:-1 tvg-id="" tvg-name="KENYA - CITIZN" tvg-logo="http://logo.panel.cx/logo/AFRICA/KENYA/KENYA.png" group-title="AF | AFRICA",KENYA - CITIZN
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109991
+#EXTINF:-1 tvg-id="" tvg-name="KENYA - 24KENYA" tvg-logo="http://logo.panel.cx/logo/AFRICA/KENYA/KENYA.png" group-title="AF | AFRICA",KENYA - 24KENYA
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109992
+#EXTINF:-1 tvg-id="" tvg-name="KENYA - INOORO TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/KENYA/KENYA.png" group-title="AF | AFRICA",KENYA - INOORO TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109993
+#EXTINF:-1 tvg-id="" tvg-name="KENYA - KAMEME TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/KENYA/KENYA.png" group-title="AF | AFRICA",KENYA - KAMEME TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109994
+#EXTINF:-1 tvg-id="" tvg-name="KENYA - KASS TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/KENYA/KENYA.png" group-title="AF | AFRICA",KENYA - KASS TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109995
+#EXTINF:-1 tvg-id="" tvg-name="KENYA - SWITCH TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/KENYA/KENYA.png" group-title="AF | AFRICA",KENYA - SWITCH TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109996
+#EXTINF:-1 tvg-id="" tvg-name="KENYA - NTV LIVE" tvg-logo="http://logo.panel.cx/logo/AFRICA/KENYA/KENYA.png" group-title="AF | AFRICA",KENYA - NTV LIVE
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109997
+#EXTINF:-1 tvg-id="" tvg-name="KENYA - R (GAHAN)" tvg-logo="http://logo.panel.cx/logo/AFRICA/KENYA/KENYA.png" group-title="AF | AFRICA",KENYA - R (GAHAN)
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109998
+#EXTINF:-1 tvg-id="" tvg-name="KENYA - YADAH TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/KENYA/KENYA.png" group-title="AF | AFRICA",KENYA - YADAH TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/109999
+#EXTINF:-1 tvg-id="" tvg-name="KENYA - KWANZA" tvg-logo="http://logo.panel.cx/logo/AFRICA/KENYA/KENYA.png" group-title="AF | AFRICA",KENYA - KWANZA
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110000
+#EXTINF:-1 tvg-id="" tvg-name="KENYA - GBS" tvg-logo="http://logo.panel.cx/logo/AFRICA/KENYA/KENYA.png" group-title="AF | AFRICA",KENYA - GBS
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110001
+#EXTINF:-1 tvg-id="" tvg-name="##### AF - BENIN #####" tvg-logo="http://logo.panel.cx/logo/AFRICA/BENIN/BENIN.png" group-title="AF | AFRICA",##### AF - BENIN #####
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110002
+#EXTINF:-1 tvg-id="" tvg-name="BENIN - ORTB" tvg-logo="http://logo.panel.cx/logo/AFRICA/BENIN/BENIN.png" group-title="AF | AFRICA",BENIN - ORTB
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110003
+#EXTINF:-1 tvg-id="" tvg-name="##### AF - ROWANDA #####" tvg-logo="http://logo.panel.cx/logo/AFRICA/ROWANDA/ROWANDA.png" group-title="AF | AFRICA",##### AF - ROWANDA #####
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110004
+#EXTINF:-1 tvg-id="" tvg-name="ROWANDA - RTV" tvg-logo="http://logo.panel.cx/logo/AFRICA/ROWANDA/ROWANDA.png" group-title="AF | AFRICA",ROWANDA - RTV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110005
+#EXTINF:-1 tvg-id="" tvg-name="##### AF - MOZAMBIQUE #####" tvg-logo="http://logo.panel.cx/logo/AFRICA/MOZAMBIQUE/MOZAMBIQUE.png" group-title="AF | AFRICA",##### AF - MOZAMBIQUE #####
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110006
+#EXTINF:-1 tvg-id="" tvg-name="MOZAMBIQUE - TVM1" tvg-logo="http://logo.panel.cx/logo/AFRICA/MOZAMBIQUE/MOZAMBIQUE.png" group-title="AF | AFRICA",MOZAMBIQUE - TVM1
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110007
+#EXTINF:-1 tvg-id="" tvg-name="MOZAMBIQUE - TVM2" tvg-logo="http://logo.panel.cx/logo/AFRICA/MOZAMBIQUE/MOZAMBIQUE.png" group-title="AF | AFRICA",MOZAMBIQUE - TVM2
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110008
+#EXTINF:-1 tvg-id="" tvg-name="MOZAMBIQUE - TVMANA MOÇAMBIQUE" tvg-logo="http://logo.panel.cx/logo/AFRICA/MOZAMBIQUE/MOZAMBIQUE.png" group-title="AF | AFRICA",MOZAMBIQUE - TVMANA MOÇAMBIQUE
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110009
+#EXTINF:-1 tvg-id="" tvg-name="MOZAMBIQUE - TVMANA MAPUTO(MOZANBI9)" tvg-logo="http://logo.panel.cx/logo/AFRICA/MOZAMBIQUE/MOZAMBIQUE.png" group-title="AF | AFRICA",MOZAMBIQUE - TVMANA MAPUTO(MOZANBI9)
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110010
+#EXTINF:-1 tvg-id="" tvg-name="MOZAMBIQUE - TVMANA1 MAPUTO" tvg-logo="http://logo.panel.cx/logo/AFRICA/MOZAMBIQUE/MOZAMBIQUE.png" group-title="AF | AFRICA",MOZAMBIQUE - TVMANA1 MAPUTO
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110011
+#EXTINF:-1 tvg-id="" tvg-name="##### AF - MALI #####" tvg-logo="http://logo.panel.cx/logo/AFRICA/MALI/MALI.png" group-title="AF | AFRICA",##### AF - MALI #####
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110012
+#EXTINF:-1 tvg-id="" tvg-name="MALI - CHERIFLA TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/MALI/MALI.png" group-title="AF | AFRICA",MALI - CHERIFLA TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110013
+#EXTINF:-1 tvg-id="" tvg-name="MALI - AFRICABLE" tvg-logo="http://logo.panel.cx/logo/AFRICA/MALI/MALI.png" group-title="AF | AFRICA",MALI - AFRICABLE
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110014
+#EXTINF:-1 tvg-id="" tvg-name="MALI - ORTM" tvg-logo="http://logo.panel.cx/logo/AFRICA/MALI/MALI.png" group-title="AF | AFRICA",MALI - ORTM
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110015
+#EXTINF:-1 tvg-id="" tvg-name="MALI - SUNNA SAVANA" tvg-logo="http://logo.panel.cx/logo/AFRICA/MALI/MALI.png" group-title="AF | AFRICA",MALI - SUNNA SAVANA
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110016
+#EXTINF:-1 tvg-id="" tvg-name="##### AF - SENEGAL #####" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",##### AF - SENEGAL #####
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110017
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - 2STV" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - 2STV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110018
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - RTS2" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - RTS2
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110019
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - RTS1" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - RTS1
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110020
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - TFM" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - TFM
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110021
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - TFM RELIGIONS" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - TFM RELIGIONS
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110022
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - 7TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - 7TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110023
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - DTV" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - DTV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110024
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - SEN TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - SEN TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110025
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - WALF" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - WALF
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110026
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - ASFIYAHI TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - ASFIYAHI TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110027
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - D24" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - D24
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110028
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - TOUBA TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - TOUBA TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110029
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - RDV" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - RDV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110030
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - D5 TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - D5 TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110031
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - TMS" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - TMS
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110032
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - AL AZHAR TOUBA TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - AL AZHAR TOUBA TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110033
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - BICHRI TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - BICHRI TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110034
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - A2I TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - A2I TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110035
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - A2I TV MUSIC" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - A2I TV MUSIC
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110036
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - A2I TV RELIGION" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - A2I TV RELIGION
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110037
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - AL MOURIDIYYAH TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - AL MOURIDIYYAH TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110038
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - TNT EVENTS" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - TNT EVENTS
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110039
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - TVS" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - TVS
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110040
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - TOUBA MONDEBI" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - TOUBA MONDEBI
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110041
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - DBS" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - DBS
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110042
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - MOURCHID TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - MOURCHID TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110043
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - LOBS TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - LOBS TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110044
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - IMEDIA TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - IMEDIA TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110045
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - YELLY TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - YELLY TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110046
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - LAMP FALL TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - LAMP FALL TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110047
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - AFRICA7 TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - AFRICA7 TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110048
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - RTJ" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - RTJ
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110049
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - BANTAMBA TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - BANTAMBA TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110050
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - ASONGA TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - ASONGA TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110051
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - PEOPLE TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - PEOPLE TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110052
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - 2 SIRACINES" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - 2 SIRACINES
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110053
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL - LERAL" tvg-logo="http://logo.panel.cx/logo/AFRICA/SENEGAL/Senegal.png" group-title="AF | AFRICA",SENEGAL - LERAL
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/111832
+#EXTINF:-1 tvg-id="" tvg-name="##### AF - DJIBOUTI #####" tvg-logo="http://logo.panel.cx/logo/AFRICA/DJIBOUTI/DJIBOUTI.png" group-title="AF | AFRICA",##### AF - DJIBOUTI #####
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110054
+#EXTINF:-1 tvg-id="" tvg-name="DJIBOUTI - RTD" tvg-logo="http://logo.panel.cx/logo/AFRICA/DJIBOUTI/DJIBOUTI.png" group-title="AF | AFRICA",DJIBOUTI - RTD
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110055
+#EXTINF:-1 tvg-id="" tvg-name="##### AF - ETHIOPIA #####" tvg-logo="http://logo.panel.cx/logo/AFRICA/ETHIOPIA/ETHIOPIA.png" group-title="AF | AFRICA",##### AF - ETHIOPIA #####
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110056
+#EXTINF:-1 tvg-id="" tvg-name="ETHIOPIA - ADDIS TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/ETHIOPIA/ETHIOPIA.png" group-title="AF | AFRICA",ETHIOPIA - ADDIS TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110057
+#EXTINF:-1 tvg-id="" tvg-name="ETHIOPIA - TIGRAY TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/ETHIOPIA/ETHIOPIA.png" group-title="AF | AFRICA",ETHIOPIA - TIGRAY TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110058
+#EXTINF:-1 tvg-id="" tvg-name="ETHIOPIA - ES TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/ETHIOPIA/ETHIOPIA.png" group-title="AF | AFRICA",ETHIOPIA - ES TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110059
+#EXTINF:-1 tvg-id="" tvg-name="ETHIOPIA - CHRISTARMY TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/ETHIOPIA/ETHIOPIA.png" group-title="AF | AFRICA",ETHIOPIA - CHRISTARMY TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110060
+#EXTINF:-1 tvg-id="" tvg-name="ETHIOPIA - IFA" tvg-logo="http://logo.panel.cx/logo/AFRICA/ETHIOPIA/ETHIOPIA.png" group-title="AF | AFRICA",ETHIOPIA - IFA
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110061
+#EXTINF:-1 tvg-id="" tvg-name="ETHIOPIA - ANOINTING TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/ETHIOPIA/ETHIOPIA.png" group-title="AF | AFRICA",ETHIOPIA - ANOINTING TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110062
+#EXTINF:-1 tvg-id="" tvg-name="ETHIOPIA - KALEAWADI" tvg-logo="http://logo.panel.cx/logo/AFRICA/ETHIOPIA/ETHIOPIA.png" group-title="AF | AFRICA",ETHIOPIA - KALEAWADI
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110064
+#EXTINF:-1 tvg-id="" tvg-name="ETHIOPIA - CJ TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/ETHIOPIA/ETHIOPIA.png" group-title="AF | AFRICA",ETHIOPIA - CJ TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110065
+#EXTINF:-1 tvg-id="" tvg-name="ETHIOPIA - IFAFAYINA TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/ETHIOPIA/ETHIOPIA.png" group-title="AF | AFRICA",ETHIOPIA - IFAFAYINA TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110066
+#EXTINF:-1 tvg-id="" tvg-name="ETHIOPIA - ETV ENTERTAINMENT (EBC3)" tvg-logo="http://logo.panel.cx/logo/AFRICA/ETHIOPIA/ETHIOPIA.png" group-title="AF | AFRICA",ETHIOPIA - ETV ENTERTAINMENT (EBC3)
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110067
+#EXTINF:-1 tvg-id="" tvg-name="ETHIOPIA - ETV LANGUAGE (EBC2)" tvg-logo="http://logo.panel.cx/logo/AFRICA/ETHIOPIA/ETHIOPIA.png" group-title="AF | AFRICA",ETHIOPIA - ETV LANGUAGE (EBC2)
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110068
+#EXTINF:-1 tvg-id="" tvg-name="ETHIOPIA - ETV NEWS (EBC1)" tvg-logo="http://logo.panel.cx/logo/AFRICA/ETHIOPIA/ETHIOPIA.png" group-title="AF | AFRICA",ETHIOPIA - ETV NEWS (EBC1)
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110069
+#EXTINF:-1 tvg-id="" tvg-name="ETHIOPIA - AMHARA" tvg-logo="http://logo.panel.cx/logo/AFRICA/ETHIOPIA/ETHIOPIA.png" group-title="AF | AFRICA",ETHIOPIA - AMHARA
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110070
+#EXTINF:-1 tvg-id="" tvg-name="##### AF - NAMIBIA #####" tvg-logo="http://logo.panel.cx/logo/AFRICA/NAMIBIA/NAMIBIA.png" group-title="AF | AFRICA",##### AF - NAMIBIA #####
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110078
+#EXTINF:-1 tvg-id="" tvg-name="NAMIBIA - ONE AFRICA TV" tvg-logo="http://logo.panel.cx/logo/AFRICA/NAMIBIA/NAMIBIA.png" group-title="AF | AFRICA",NAMIBIA - ONE AFRICA TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110079
+#EXTINF:-1 tvg-id="" tvg-name="##### AF - CAPEVERDE #####" tvg-logo="" group-title="AF | AFRICA",##### AF - CAPEVERDE #####
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/110080
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC - AFRO MUSIC" tvg-logo="" group-title="AF | AFRICA",MUSIC - AFRO MUSIC
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/124031
+#EXTINF:-1 tvg-id="" tvg-name="##### AFRICA MUSIC #####" tvg-logo="" group-title="AF | AFRICA",##### AFRICA MUSIC #####
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/124032
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC - TRACE MIZKI" tvg-logo="http://logo.panel.cx/logo/AFRICA/AFRICA%20MUSIC/Trace-Mziki.png" group-title="AF | AFRICA",MUSIC - TRACE MIZKI
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/124057
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC - TRACE KITOKO" tvg-logo="http://logo.panel.cx/logo/AFRICA/AFRICA%20MUSIC/Trace-kitoko.png" group-title="AF | AFRICA",MUSIC - TRACE KITOKO
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/124058
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC - TRACE TOCA" tvg-logo="http://logo.panel.cx/logo/AMERICA/CANADA/TRACETOCAFR.png" group-title="AF | AFRICA",MUSIC - TRACE TOCA
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/124059
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC - TRACE AFRICA" tvg-logo="http://logo.panel.cx/logo/AMERICA/CANADA/Trace_Africa.png" group-title="AF | AFRICA",MUSIC - TRACE AFRICA
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/124070
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC - TRACE URBAN" tvg-logo="http://logo.panel.cx/logo/AMERICA/CANADA/TRACETROPICAL.png" group-title="AF | AFRICA",MUSIC - TRACE URBAN
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/124081
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC - TRACE GOSPEL" tvg-logo="http://logo.panel.cx/logo/AFRICA/AFRICA%20MUSIC/Trace-Gospel.png" group-title="AF | AFRICA",MUSIC - TRACE GOSPEL
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/124082
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC - TRACE NAIJA" tvg-logo="http://logo.panel.cx/logo/AMERICA/CANADA/TRACENAIJA.png" group-title="AF | AFRICA",MUSIC - TRACE NAIJA
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/124093
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC - TRACE SPORTS STARTS" tvg-logo="http://logo.panel.cx/logo/AFRICA/AFRICA%20MUSIC/Trace-Sports-starts.png" group-title="AF | AFRICA",MUSIC - TRACE SPORTS STARTS
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/124094
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC - TRACE TROPICAL" tvg-logo="http://logo.panel.cx/logo/AMERICA/CANADA/TRACETROPICAL.png" group-title="AF | AFRICA",MUSIC - TRACE TROPICAL
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/124095
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC - TRACE JAMA" tvg-logo="http://logo.panel.cx/logo/AFRICA/AFRICA%20MUSIC/Trace-Jama.png" group-title="AF | AFRICA",MUSIC - TRACE JAMA
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/124096
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC - PLANET CANNABIS MUSIC" tvg-logo="" group-title="AF | AFRICA",MUSIC - PLANET CANNABIS MUSIC
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/124097
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC - MY MUSIC AFRICA HD" tvg-logo="" group-title="AF | AFRICA",MUSIC - MY MUSIC AFRICA HD
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/124098
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC - HIT TV AFRICA" tvg-logo="" group-title="AF | AFRICA",MUSIC - HIT TV AFRICA
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/124099
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC - DIGITAL BLACK MUSIC" tvg-logo="http://logo.panel.cx/logo/AFRICA/AFRICA%20MUSIC/Digital-black-music.png" group-title="AF | AFRICA",MUSIC - DIGITAL BLACK MUSIC
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/124100
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC - BLACK MUSIC ARTIST TV" tvg-logo="" group-title="AF | AFRICA",MUSIC - BLACK MUSIC ARTIST TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/124101
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC - BBLACK AFRICA" tvg-logo="http://logo.panel.cx/logo/AFRICA/AFRICA%20MUSIC/Bblack-africa.png" group-title="AF | AFRICA",MUSIC - BBLACK AFRICA
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/124102
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC - BBLACK CARRABEAN" tvg-logo="http://logo.panel.cx/logo/AFRICA/AFRICA%20MUSIC/Bblack-Carrabean.png" group-title="AF | AFRICA",MUSIC - BBLACK CARRABEAN
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/124103
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC - BBLACK CLASSIK" tvg-logo="http://logo.panel.cx/logo/AFRICA/AFRICA%20MUSIC/Bblack-classik.png" group-title="AF | AFRICA",MUSIC - BBLACK CLASSIK
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/124104
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC - DBMTV" tvg-logo="http://logo.panel.cx/logo/AFRICA/AFRICA%20MUSIC/Digital-black-music.png" group-title="AF | AFRICA",MUSIC - DBMTV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/124105
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC - KISS TV" tvg-logo="" group-title="AF | AFRICA",MUSIC - KISS TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/124107
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC - 3TV" tvg-logo="" group-title="AF | AFRICA",MUSIC - 3TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/124116
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC - MUSIC TV" tvg-logo="" group-title="AF | AFRICA",MUSIC - MUSIC TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/124120
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC - AFRO MUSIC POP" tvg-logo="" group-title="AF | AFRICA",MUSIC - AFRO MUSIC POP
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/124121
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC - SOUNDCITY" tvg-logo="" group-title="AF | AFRICA",MUSIC - SOUNDCITY
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/124122
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC - URBAN TV" tvg-logo="" group-title="AF | AFRICA",MUSIC - URBAN TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/124123
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC - MTV BASE" tvg-logo="" group-title="AF | AFRICA",MUSIC - MTV BASE
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/124124
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC - MTV" tvg-logo="" group-title="AF | AFRICA",MUSIC - MTV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/124125
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC - TEMPO" tvg-logo="" group-title="AF | AFRICA",MUSIC - TEMPO
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/124126
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC - GOSPEL CHANNEL" tvg-logo="" group-title="AF | AFRICA",MUSIC - GOSPEL CHANNEL
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/124127
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC - RAVE TV" tvg-logo="" group-title="AF | AFRICA",MUSIC - RAVE TV
+http://satelliteiptv.pro:80/Naridoth/AC8C79CA14D9171/124128
